@@ -1,0 +1,25 @@
+{
+  "name": "aliparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malakanov/alistoreparser.git"
+  },
+  "author": "malakanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malakanov/alistoreparser/issues"
+  },
+  "homepage": "https://github.com/malakanov/alistoreparser#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "puppeteer": "^5.5.0",
+    "rucaptcha-client": "^2.0.2"
+  }
+}
